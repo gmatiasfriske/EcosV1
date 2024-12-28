@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "Concerto Beneficente Emociona Público",
+    "subtitle": "Orquestra se apresenta em evento solidário para arrecadar fundos para instituições de caridade",
+    "date": "2024-03-15",
+    "imageUrl": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80",
+    "content": "Em uma noite memorável, a Orquestra Ecos de Sião realizou um concerto beneficente que tocou o coração de todos os presentes. O evento, que aconteceu no Teatro Municipal, reuniu mais de 500 pessoas e arrecadou fundos significativos para instituições de caridade locais. O repertório incluiu obras clássicas e arranjos especiais de músicas contemporâneas, demonstrando a versatilidade e excelência técnica do grupo.",
+    "video": {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "Concerto Beneficente - Highlights"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Jovens Talentos Brilham no Concerto de Primavera",
+    "subtitle": "Novas promessas da música clássica encantam o público em apresentação especial",
+    "date": "2024-09-20",
+    "imageUrl": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80",
+    "content": "A apresentação foi um marco para jovens músicos, com performances cheias de energia e paixão que receberam aplausos entusiásticos. O concerto contou com peças de Vivaldi, Mozart e composições próprias, reafirmando a importância de valorizar novos talentos na musica erudita.",
+    "video": null
+  },
+  {
+  "id": 3,
+  "title": "Um Dia nos Ensaios da Orquestra",
+  "subtitle": "Galeria especial mostra os bastidores e a dedicação dos músicos durante os ensaios",
+  "date": "2024-03-01",
+  "imageUrl": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80",
+  "content": "Acompanhe através desta galeria especial um dia típico nos ensaios da Orquestra Ecos de Sião. Das primeiras notas da manhã até os últimos ajustes do dia, nossos músicos dedicam-se intensamente para entregar apresentações de excelência.",
+  "gallery": [
+    {
+      "url": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "caption": "Chegada dos músicos",
+      "alt": "Músicos chegando para o ensaio"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1514119412350-e174d90d280e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "caption": "Afinação dos instrumentos",
+      "alt": "Momento de afinação"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1460036521480-ff49c08c2781?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "caption": "Ensaio das cordas",
+      "alt": "Seção de cordas ensaiando"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "caption": "Ensaio dos metais",
+      "alt": "Seção de metais ensaiando"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "caption": "Ensaio das madeiras",
+      "alt": "Seção de madeiras ensaiando"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "caption": "Pausa para café",
+      "alt": "Músicos em momento de pausa"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1514119412350-e174d90d280e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "caption": "Estudo individual",
+      "alt": "Músico estudando sua parte"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1460036521480-ff49c08c2781?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "caption": "Ensaio em naipes",
+      "alt": "Ensaio por naipes"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "caption": "Orientação do maestro",
+      "alt": "Maestro orientando os músicos"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "caption": "Ensaio geral",
+      "alt": "Orquestra completa ensaiando"
+    }
+  ]
+}
+]

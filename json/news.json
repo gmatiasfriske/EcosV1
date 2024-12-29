@@ -17,8 +17,30 @@
     "subtitle": "Novas promessas da música clássica encantam o público em apresentação especial",
     "date": "2024-09-20",
     "imageUrl": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80",
-    "content": "A apresentação foi um marco para jovens músicos, com performances cheias de energia e paixão que receberam aplausos entusiásticos. O concerto contou com peças de Vivaldi, Mozart e composições próprias, reafirmando a importância de valorizar novos talentos na musica erudita.",
-    "video": null
+    "content": "A apresentação foi um marco para jovens músicos, com performances cheias de energia e paixão que receberam aplausos entusiásticos. O concerto contou com peças de Vivaldi, Mozart e composições próprias, reafirmando a importância de valorizar novos talentos.",
+    "video": null,
+    "gallery": [
+    {
+      "url": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "caption": "Chegada dos músicos",
+      "alt": "Músicos chegando para o ensaio"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1514119412350-e174d90d280e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "caption": "Afinação dos instrumentos",
+      "alt": "Momento de afinação"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1460036521480-ff49c08c2781?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "caption": "Ensaio das cordas",
+      "alt": "Seção de cordas ensaiando"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "caption": "Ensaio dos metais",
+      "alt": "Seção de metais ensaiando"
+    }
+    ]
   },
   {
   "id": 3,

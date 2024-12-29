@@ -4,7 +4,7 @@
       "id": 1,
       "titulo": "A alegria - 3 Palavrinhas",
       "descricao": "Orquestração: Caio Pietro",
-      "tipo": "bloqueado",
+      "tipo": "especial",
       "instrumentos": [
         { "nome": "Violino 1", 
           "audioUrl": "https://ecosdesiao.github.io/hinos/A-alegria-Violino_1.mp3",

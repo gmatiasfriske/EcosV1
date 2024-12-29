@@ -1,0 +1,68 @@
+{
+  "doacoes": [
+    {
+      "id": 1,
+      "data": "2023-12-20",
+      "valor": 100.00,
+      "descricao": "Doação anônima",
+      "tipo": "doacao"
+    },
+    {
+      "id": 2,
+      "data": "2023-12-15",
+      "valor": 250.00,
+      "descricao": "Doação para compra de instrumentos",
+      "tipo": "doacao",
+      "imageUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/instrumentos.jpg"
+    },
+    {
+      "id": 3,
+      "data": "2023-12-10",
+      "valor": 150.00,
+      "descricao": "Doação para manutenção do site",
+      "tipo": "doacao",
+      "imageUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/site.jpg"
+    },
+    {
+      "id": 4,
+      "data": "2023-12-05",
+      "valor": 300.00,
+      "descricao": "Doação para aquisição de equipamentos de áudio",
+      "tipo": "doacao",
+      "imageUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/audio.jpg"
+    },
+    {
+      "id": 5,
+      "data": "2023-12-08",
+      "valor": 0,
+      "descricao": "Doação de microfone para gravação",
+      "tipo": "doacao",
+      "imageUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/microfone.jpg"
+    }
+  ],
+  "gastos": [
+    {
+      "id": 1,
+      "data": "2023-12-25",
+      "valor": 50.00,
+      "descricao": "Material de escritório",
+      "tipo": "gasto"
+    },
+    {
+      "id": 2,
+      "data": "2023-12-18",
+      "valor": 200.00,
+      "descricao": "Manutenção de instrumentos musicais",
+      "tipo": "gasto",
+      "imageUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/manutencao.jpg"
+    },
+    {
+      "id": 3,
+      "data": "2023-12-12",
+      "valor": 180.00,
+      "descricao": "Hospedagem do site (anual)",
+      "tipo": "gasto",
+      "imageUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hospedagem.jpg"
+    }
+  ]
+}

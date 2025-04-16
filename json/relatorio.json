@@ -6,27 +6,19 @@
         {
           "mes": 1,
           "saldoAnterior": 1500.00,
-          "totalDoacoes": 2000.00,
-          "totalGastos": 1800.00,
+          "totalDoacoes": 500.00,
+          "totalGastos": 300.00,
           "saldoFinal": 1700.00,
           "registros": [
             {
               "id": 1,
-              "data": "2024-01-15",
+              "data": "2024-01-14",
               "valor": 500.00,
               "descricao": "Doação para compra de instrumentos",
               "tipo": "doacao",
               "imagens": [
-                {
-                  "url": "https://example.com/img1.jpg",
-                  "caption": "Comprovante de doação",
-                  "alt": "Comprovante bancário da doação"
-                },
-                {
-                  "url": "https://example.com/img2.jpg",
-                  "caption": "Instrumento adquirido",
-                  "alt": "Foto do instrumento"
-                }
+                { "url": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80", "caption": "Instrumento 1", "alt": "Instrumento 1" },
+                { "url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=400&q=80", "caption": "Instrumento 2", "alt": "Instrumento 2" }
               ]
             },
             {
@@ -36,11 +28,336 @@
               "descricao": "Manutenção de equipamentos",
               "tipo": "gasto",
               "imagens": [
-                {
-                  "url": "https://example.com/img3.jpg",
-                  "caption": "Nota fiscal",
-                  "alt": "Nota fiscal do serviço"
-                }
+                { "url": "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?auto=format&fit=crop&w=400&q=80", "caption": "Nota fiscal", "alt": "Nota fiscal do serviço" }
+              ]
+            }
+          ]
+        },
+        {
+          "mes": 2,
+          "saldoAnterior": 1700.00,
+          "totalDoacoes": 800.00,
+          "totalGastos": 600.00,
+          "saldoFinal": 1900.00,
+          "registros": [
+            {
+              "id": 3,
+              "data": "2024-02-09",
+              "valor": 800.00,
+              "descricao": "Doação para reforma do salão",
+              "tipo": "doacao",
+              "imagens": [
+                { "url": "/img/doacao2a.jpg", "caption": "Reforma 1", "alt": "Reforma 1" },
+                { "url": "/img/doacao2b.jpg", "caption": "Reforma 2", "alt": "Reforma 2" },
+                { "url": "/img/doacao2c.jpg", "caption": "Reforma 3", "alt": "Reforma 3" }
+              ]
+            },
+            {
+              "id": 4,
+              "data": "2024-02-18",
+              "valor": 600.00,
+              "descricao": "Compra de partituras",
+              "tipo": "gasto",
+              "imagens": [
+                { "url": "/img/gasto2a.jpg", "caption": "Nota fiscal da compra", "alt": "Nota fiscal da compra" }
+              ]
+            }
+          ]
+        },
+        {
+          "mes": 3,
+          "saldoAnterior": 1900.00,
+          "totalDoacoes": 600.00,
+          "totalGastos": 900.00,
+          "saldoFinal": 1600.00,
+          "registros": [
+            {
+              "id": 5,
+              "data": "2024-03-11",
+              "valor": 400.00,
+              "descricao": "Doação anônima para manutenção",
+              "tipo": "doacao",
+              "imagens": [
+                { "url": "/img/doacao3a.jpg", "caption": "Manutenção 1", "alt": "Manutenção 1" },
+                { "url": "/img/doacao3b.jpg", "caption": "Manutenção 2", "alt": "Manutenção 2" }
+              ]
+            },
+            {
+              "id": 6,
+              "data": "2024-03-28",
+              "valor": 900.00,
+              "descricao": "Pagamento de energia elétrica",
+              "tipo": "gasto",
+              "imagens": [
+                { "url": "/img/gasto3a.jpg", "caption": "Conta de energia", "alt": "Conta de energia elétrica" }
+              ]
+            },
+            {
+              "id": 3,
+              "data": "2024-03-10",
+              "valor": 200.00,
+              "descricao": "Doação via Pix (sem comprovante)",
+              "tipo": "doacao"
+            }
+          ]
+        },
+        {
+          "mes": 4,
+          "saldoAnterior": 1600.00,
+          "totalDoacoes": 1000.00,
+          "totalGastos": 700.00,
+          "saldoFinal": 1900.00,
+          "registros": [
+            {
+              "id": 7,
+              "data": "2024-04-05",
+              "valor": 1000.00,
+              "descricao": "Doação de evento beneficente",
+              "tipo": "doacao",
+              "imagens": [
+                { "url": "/img/doacao4a.jpg", "caption": "Foto do evento", "alt": "Foto do evento beneficente" }
+              ]
+            },
+            {
+              "id": 8,
+              "data": "2024-04-19",
+              "valor": 700.00,
+              "descricao": "Compra de uniformes",
+              "tipo": "gasto",
+              "imagens": [
+                { "url": "/img/gasto4a.jpg", "caption": "Nota fiscal do uniforme", "alt": "Nota fiscal do uniforme" }
+              ]
+            }
+          ]
+        },
+        {
+          "mes": 5,
+          "saldoAnterior": 1900.00,
+          "totalDoacoes": 600.00,
+          "totalGastos": 500.00,
+          "saldoFinal": 2000.00,
+          "registros": [
+            {
+              "id": 9,
+              "data": "2024-05-10",
+              "valor": 600.00,
+              "descricao": "Doação de associado",
+              "tipo": "doacao",
+              "imagens": [
+                { "url": "/img/doacao5a.jpg", "caption": "Comprovante de transferência", "alt": "Comprovante bancário da transferência" }
+              ]
+            },
+            {
+              "id": 10,
+              "data": "2024-05-25",
+              "valor": 500.00,
+              "descricao": "Compra de material de limpeza",
+              "tipo": "gasto",
+              "imagens": [
+                { "url": "/img/gasto5a.jpg", "caption": "Nota fiscal de material", "alt": "Nota fiscal de material de limpeza" }
+              ]
+            }
+          ]
+        },
+        {
+          "mes": 6,
+          "saldoAnterior": 2000.00,
+          "totalDoacoes": 450.00,
+          "totalGastos": 350.00,
+          "saldoFinal": 2100.00,
+          "registros": [
+            {
+              "id": 11,
+              "data": "2024-06-14",
+              "valor": 450.00,
+              "descricao": "Doação online",
+              "tipo": "doacao",
+              "imagens": [
+                { "url": "/img/doacao6a.jpg", "caption": "Comprovante de doação", "alt": "Comprovante bancário da doação online" }
+              ]
+            },
+            {
+              "id": 12,
+              "data": "2024-06-28",
+              "valor": 350.00,
+              "descricao": "Pagamento de água",
+              "tipo": "gasto",
+              "imagens": [
+                { "url": "/img/gasto6a.jpg", "caption": "Conta de água", "alt": "Conta de água" }
+              ]
+            }
+          ]
+        },
+        {
+          "mes": 7,
+          "saldoAnterior": 2100.00,
+          "totalDoacoes": 700.00,
+          "totalGastos": 400.00,
+          "saldoFinal": 2400.00,
+          "registros": [
+            {
+              "id": 13,
+              "data": "2024-07-07",
+              "valor": 700.00,
+              "descricao": "Doação de empresa parceira",
+              "tipo": "doacao",
+              "imagens": [
+                { "url": "/img/doacao7a.jpg", "caption": "Comprovante empresarial", "alt": "Comprovante de doação empresarial" }
+              ]
+            },
+            {
+              "id": 14,
+              "data": "2024-07-22",
+              "valor": 400.00,
+              "descricao": "Compra de material escolar",
+              "tipo": "gasto",
+              "imagens": [
+                { "url": "/img/gasto7a.jpg", "caption": "Nota fiscal escolar", "alt": "Nota fiscal de material escolar" }
+              ]
+            }
+          ]
+        },
+        {
+          "mes": 8,
+          "saldoAnterior": 2400.00,
+          "totalDoacoes": 550.00,
+          "totalGastos": 200.00,
+          "saldoFinal": 2750.00,
+          "registros": [
+            {
+              "id": 15,
+              "data": "2024-08-15",
+              "valor": 550.00,
+              "descricao": "Doação para compra de livros",
+              "tipo": "doacao",
+              "imagens": [
+                { "url": "/img/doacao8a.jpg", "caption": "Comprovante de transferência", "alt": "Comprovante bancário da transferência" }
+              ]
+            },
+            {
+              "id": 16,
+              "data": "2024-08-28",
+              "valor": 200.00,
+              "descricao": "Pagamento de internet",
+              "tipo": "gasto",
+              "imagens": [
+                { "url": "/img/gasto8a.jpg", "caption": "Conta de internet", "alt": "Conta de internet" }
+              ]
+            }
+          ]
+        },
+        {
+          "mes": 9,
+          "saldoAnterior": 2750.00,
+          "totalDoacoes": 400.00,
+          "totalGastos": 300.00,
+          "saldoFinal": 2850.00,
+          "registros": [
+            {
+              "id": 17,
+              "data": "2024-09-10",
+              "valor": 400.00,
+              "descricao": "Doação de campanha online",
+              "tipo": "doacao",
+              "imagens": [
+                { "url": "/img/doacao9a.jpg", "caption": "Comprovante de doação", "alt": "Comprovante bancário da doação" }
+              ]
+            },
+            {
+              "id": 18,
+              "data": "2024-09-29",
+              "valor": 300.00,
+              "descricao": "Compra de material esportivo",
+              "tipo": "gasto",
+              "imagens": [
+                { "url": "/img/gasto9a.jpg", "caption": "Nota fiscal esportiva", "alt": "Nota fiscal de material esportivo" }
+              ]
+            }
+          ]
+        },
+        {
+          "mes": 10,
+          "saldoAnterior": 2850.00,
+          "totalDoacoes": 600.00,
+          "totalGastos": 350.00,
+          "saldoFinal": 3100.00,
+          "registros": [
+            {
+              "id": 19,
+              "data": "2024-10-03",
+              "valor": 600.00,
+              "descricao": "Doação de aniversário",
+              "tipo": "doacao",
+              "imagens": [
+                { "url": "/img/doacao10a.jpg", "caption": "Foto da comemoração", "alt": "Foto da festa de aniversário" }
+              ]
+            },
+            {
+              "id": 20,
+              "data": "2024-10-25",
+              "valor": 350.00,
+              "descricao": "Pagamento de telefone",
+              "tipo": "gasto",
+              "imagens": [
+                { "url": "/img/gasto10a.jpg", "caption": "Conta de telefone", "alt": "Conta de telefone" }
+              ]
+            }
+          ]
+        },
+        {
+          "mes": 11,
+          "saldoAnterior": 3100.00,
+          "totalDoacoes": 700.00,
+          "totalGastos": 400.00,
+          "saldoFinal": 3400.00,
+          "registros": [
+            {
+              "id": 21,
+              "data": "2024-11-11",
+              "valor": 700.00,
+              "descricao": "Doação de final de ano",
+              "tipo": "doacao",
+              "imagens": [
+                { "url": "/img/doacao11a.jpg", "caption": "Comprovante de doação", "alt": "Comprovante bancário da doação" }
+              ]
+            },
+            {
+              "id": 22,
+              "data": "2024-11-27",
+              "valor": 400.00,
+              "descricao": "Compra de material de escritório",
+              "tipo": "gasto",
+              "imagens": [
+                { "url": "/img/gasto11a.jpg", "caption": "Nota fiscal de escritório", "alt": "Nota fiscal de material de escritório" }
+              ]
+            }
+          ]
+        },
+        {
+          "mes": 12,
+          "saldoAnterior": 3400.00,
+          "totalDoacoes": 800.00,
+          "totalGastos": 500.00,
+          "saldoFinal": 3700.00,
+          "registros": [
+            {
+              "id": 23,
+              "data": "2024-12-19",
+              "valor": 800.00,
+              "descricao": "Doação especial de Natal",
+              "tipo": "doacao",
+              "imagens": [
+                { "url": "/img/doacao12a.jpg", "caption": "Foto de Natal", "alt": "Foto da doação de Natal" }
+              ]
+            },
+            {
+              "id": 24,
+              "data": "2024-12-30",
+              "valor": 500.00,
+              "descricao": "Pagamento de aluguel",
+              "tipo": "gasto",
+              "imagens": [
+                { "url": "/img/gasto12a.jpg", "caption": "Comprovante de aluguel", "alt": "Comprovante de pagamento de aluguel" }
               ]
             }
           ]
